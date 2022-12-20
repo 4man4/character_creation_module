@@ -129,8 +129,4 @@ dmypy.json
 .pyre/
 
 # VSCode
-<<<<<<< HEAD
 .vscode/
-=======
-.vscode
->>>>>>> ff193d660114ed62cd9b954978c170d8784ffab8
